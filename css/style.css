@@ -1,7 +1,7 @@
 
 body{
 	font-family: helvetica;
-    background-color: #deddcd;
+    background-color: #d4c9c2;
 }
 
 
@@ -110,7 +110,7 @@ li a:hover {
 }
 
 .content{
-	background: #deddcd;
+	background: #d4c9c2;
 	float: right;
 	width: 88%;
 	padding: 1%;
