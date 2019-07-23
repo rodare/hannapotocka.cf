@@ -5,7 +5,7 @@ header("Content-Type: text/html; charset=utf-8");
 if(isset($_POST['email'])) {
      
     // CHANGE THE TWO LINES BELOW
-    $email_to = "hannaszweda1@gmail.com";
+    $email_to = "hanna.szweda1@gmail.com";
      
     $email_subject = "Contact from my website";
      
