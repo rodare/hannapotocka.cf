@@ -5,9 +5,9 @@ header("Content-Type: text/html; charset=utf-8");
 if(isset($_POST['email'])) {
      
     // CHANGE THE TWO LINES BELOW
-    $email_to = "esaccl@gmail.com";
+    $email_to = "hannaszweda1@gmail.com";
      
-    $email_subject = "Contacto de CI";
+    $email_subject = "Contact from my website";
      
      
     function died($error) {
@@ -79,7 +79,7 @@ $headers = 'From: '.$email_from."\r\n".
 	<html lang="es">
 <head>
 	<meta charset="utf-8"/>
-	<title>Eduardo</title>
+	<title>Hanna</title>
 	<link rel="stylesheet" href="css/style.css"/>
 	<link rel="icon" href="favicon.ico" /> 
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
@@ -126,7 +126,7 @@ $headers = 'From: '.$email_from."\r\n".
  <div class="content">
   <h2>Contacto</h2>
 
- <p>Thank you for contacting me. I will respond to you as soon as I can.<br> Greetings,<br><br> Eduardo Arenas C.</p>
+ <p>Thank you for contacting me. I will respond to you as soon as I can.<br> Greetings,<br><br> Hanna Szweda</p>
 
  </div>	
 
