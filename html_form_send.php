@@ -132,11 +132,10 @@ $headers = 'From: '.$email_from."\r\n".
 
 <aside>
 	<ul>
-		<li><a href="index.html">Home</a></li>
-		<li><a href="about.html">About</a></li>
-		<li><a href="gallery.html">Gallery</a></li>
-		<li><a href="videos.html">Videos</a></li>
-		<li><a href="contact.html">Contact</a></li>
+		<li><a href="noticias.html">Noticias</a></li>
+		<li><a href="descargas.html">Descargas</a></li>
+		<li><a href="amigos.html">Amigos</a></li>
+		<li><a href="links.html">Links</a></li>
 	</ul>
 </aside>
 </div>
